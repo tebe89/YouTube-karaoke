@@ -1,0 +1,6 @@
+{
+  "name": "YouTube karaoke",
+  "description": "High-performance YouTube Karaoke player featuring real-time pitchbend with zero speed change, L/R minus-one vocal removal routing, NewPipe-grade ad blocking, and smooth full-screen playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
